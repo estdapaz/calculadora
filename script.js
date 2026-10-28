@@ -52,7 +52,7 @@ for (var i = 0; i < conta.length; i++) {
 
   });
 }
-
+//tst
 // adiconando evento de clique no botão igual
 resultado.addEventListener("click", function() {
 
